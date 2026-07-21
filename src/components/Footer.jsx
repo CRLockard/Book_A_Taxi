@@ -1,0 +1,1 @@
+export default ()=> <footer className="footer">© 2026 Book_A_Taxi</footer>;

@@ -1,0 +1,16 @@
+.confirmation-card {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.confirmation-card h2 {
+  text-align: center;
+}
+
+.confirmation-card button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}

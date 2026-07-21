@@ -1,5 +1,1 @@
-function About() {
-  return <h1>About Us</h1>;
-}
-
-export default About;
+export default ()=> <section><h1>About Us</h1></section>;

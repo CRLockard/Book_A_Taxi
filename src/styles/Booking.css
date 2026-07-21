@@ -1,0 +1,41 @@
+.booking-card {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 25px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.booking-card h1 {
+  text-align: center;
+}
+
+.booking-card input {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.booking-card button {
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.booking-card p {
+  margin: 0;
+}
+
+.confirmation-card {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.confirmation-card h2 {
+  text-align: center;
+}
